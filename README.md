@@ -11,7 +11,7 @@ I made these scripts for myself to be able to play some games in a tablet which 
 
 Hopefully, they could also be useful for someone else so I decided to share them.
 
-They were tested on both 32 and 64-bit version of Microsoft Windows 10 (tablet and desktop). If, after trying a binariy (32-bit version and also 64-bit versions if any), it does not work on your Windows version then you can try to compile it from the source code provided. Please, have in mind that not all Windows versions have "tabtip.exe" or "osk.exe" files.
+They were tested on both 32 and 64-bit version of Microsoft Windows 10 (tablet and desktop) as well as on 32-bit versions of Microsoft Windows XP (with Service Pack 1) and Microsoft Windows 7. If, after trying a binariy (32-bit version and also 64-bit versions if any), it does not work on your Windows version then you can try to compile it from the source code provided. Please, have in mind that not all Windows versions have "tabtip.exe" or "osk.exe" files.
 
 
 ## Included scripts
@@ -22,11 +22,11 @@ They were tested on both 32 and 64-bit version of Microsoft Windows 10 (tablet a
 
 **pressF10_32** - It will press the "F10" key when the mouse wheel button (the middle button) is pressed. Compiled for 32-bit but it should also run on 64-bit versions of Microsoft Windows.
 
-**showOSK_32** - It will show the "OSK" (_osk.exe_) which belongs to the "On Screen Keyboard" ("floating" around the screen, as an independent window) when the mouse wheel button (the middle button) is pressed. Compiled for 32-bit.
+**showOSK_32** - If available in the operating system, it will show the "OSK" (_osk.exe_) which belongs to the "On Screen Keyboard" ("floating" around the screen, as an independent window) when the mouse wheel button (the middle button) is pressed. Compiled for 32-bit.
 
 **showOSK_64** - The same as "showOSK_32" but for 64-bit versions of Microsoft Windows. Use it in the case that you get [an error](https://autohotkey.com/board/topic/119602-the-system-cannot-find-the-file-specified/ "The system cannot find the file specified") using the "showOSK_32" version.
 
-**showTabTip_32** - It will show the "TabTip" (_tabtip.exe_) which also belongs to an on-screen keyboad (the one attached to the bottom of the screen) when the mouse wheel button (the middle button) is pressed. Compiled for 32-bit.
+**showTabTip_32** - If available in the operating system, it will show the "TabTip" (_tabtip.exe_) which also belongs to an on-screen keyboad (different from the "osk.exe" one) when the mouse wheel button (the middle button) is pressed. Compiled for 32-bit.
 
 **showTabTip_64** - The same as "showTabTip_32" but for 64-bit versions of Microsoft Windows. Use it in the case that you get [an error](https://autohotkey.com/board/topic/119602-the-system-cannot-find-the-file-specified/ "The system cannot find the file specified") using the "showTabTip_32" version.
 
