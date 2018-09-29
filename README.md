@@ -43,3 +43,8 @@ Note that, if desired, more than one script can be run at the same time to be co
 Apart from the binaries for Microsoft Windows, the source code is included so they can be easily modified to edit the actions performed, enhance features, etc.
 
 To compile from the source code, the [AutoHotkey](https://autohotkey.com/ "AutoHotkey web site") software will be needed.
+
+
+## License
+
+This project can be used, reproduced, distributed and modified freely for any non-commercial purposes but always keeping the author's name and copyright clauses. Other than that, just use this project as you wish but never sell it!
